@@ -1,2 +1,3 @@
-# Competitiva
-Curso de Programación Competitiva FAMAF 2023
+# Competitive
+
+Competitive Programming Course FAMAF 2023
